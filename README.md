@@ -6,7 +6,7 @@ This is a blender add-on **Screencast Keys** to display the Keyboard/Mouse and O
 
 *To realize the long support of this add-on, your support is helpful.*  
 *You can support the development of this add-on via **[GitHub Sponsors](https://github.com/sponsors/nutti)** or **[Blender Market](https://blendermarket.com/products/screencast-keys)**.*  
-*See [the contribution page](CHANGELOG.md) for the detail of the support.*
+*See [the contribution doc](CONTRIBUTING.md) for the detail of the support.*
 
 
 ## Download / Installation
